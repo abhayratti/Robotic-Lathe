@@ -1,6 +1,6 @@
 # Robotic Lathe Machine 🤖
 
-A miniature, automated lathe machine that tracks a line profile and cuts that shape into a rotating piece of foam.
+A miniature, automated lathe machine that tracks a line profile and cuts that shape into a rotating piece of foam (click the image to see the machine in action!).
 
 <a href="https://www.youtube.com/watch?v=-l6_IEXj7dw" target="_blank"><img src="https://github.com/abhayratti/Robotic-Lathe/assets/92469179/0e49b276-712b-4b02-b27b-50e890cc609a"></a>
 
