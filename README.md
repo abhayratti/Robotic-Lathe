@@ -2,7 +2,7 @@
 
 A miniature, automated lathe machine that tracks a line profile and cuts that shape into a rotating piece of foam.
 
-<a href="https://www.youtube.com/watch?v=-l6_IEXj7dw" target="_blank"><img src="https://github.com/abhayratti/Robotic-Lathe/assets/92469179/9b38b7c0-45f8-4371-bbdb-c1889815fd72" width="756" height="1008"></a>
+<a href="https://www.youtube.com/watch?v=-l6_IEXj7dw" target="_blank"><img src="[https://github.com/abhayratti/Robotic-Lathe/assets/92469179/9b38b7c0-45f8-4371-bbdb-c1889815fd72](https://github.com/abhayratti/Robotic-Lathe/assets/92469179/da4cb8fc-284e-43b0-9df0-89d90ad15741)"></a>
 
 ## Background
 
@@ -16,4 +16,4 @@ The machine functions by following a hand-drawn line profile using a colour sens
 
 This GitHub repository contains both the C code used in our machine as well as the CAD components we custom-designed to make this project. 
 
-If you're interested in replicating or learning more about the automated lathe machine, we developed a detailed, 60+ page report that goes into detail about the scope, mechanical design, software design, design implementation, and constrains and criteria of the project.  
+If you're interested in replicating or learning more about the automated lathe machine, we developed a detailed, 60+ page report that goes into detail about the scope, mechanical design, software design, design implementation, and constraints and criteria of the project.  
