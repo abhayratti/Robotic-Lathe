@@ -2,7 +2,7 @@
 
 A miniature, automated lathe machine that tracks a line profile and cuts that shape into a rotating piece of foam.
 
-<a href="https://www.youtube.com/watch?v=-l6_IEXj7dw" target="_blank"><img src="https://github.com/abhayratti/Robotic-Lathe/assets/92469179/9b38b7c0-45f8-4371-bbdb-c1889815fd72" width="1508" height="2016"></a>
+<a href="https://www.youtube.com/watch?v=-l6_IEXj7dw" target="_blank"><img src="https://github.com/abhayratti/Robotic-Lathe/assets/92469179/9b38b7c0-45f8-4371-bbdb-c1889815fd72" width="756" height="1008"></a>
 
 ## Background
 
