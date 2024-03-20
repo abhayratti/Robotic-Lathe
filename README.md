@@ -16,4 +16,6 @@ The machine functions by following a hand-drawn line profile using a colour sens
 
 This GitHub repository contains both the C code used in our machine as well as the CAD components we custom-designed to make this project. 
 
-If you're interested in replicating or learning more about the automated lathe machine, we developed a detailed, 60+ page report that goes into detail about the scope, mechanical design, software design, design implementation, and constraints and criteria of the project.  
+If you're interested in replicating or learning more about the automated lathe machine, we developed a detailed, 60+ page report that goes into detail about the scope, mechanical design, software design, design implementation, and constraints and criteria of the project. 
+
+Shoot me a message (a2ratti [at] uwaterloo [dot] ca) and I'd be happy to provide an overview of it! 
